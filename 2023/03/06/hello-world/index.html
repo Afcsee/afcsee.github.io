@@ -193,12 +193,12 @@ if (true) {
   function initWaline () {
     const waline = Waline.init(Object.assign({
       el: '#waline-wrap',
-      serverURL: 'https://sulemio-waline.vercel.app/',
+      serverURL: 'https://waline.sulemio.love/',
       pageview: false,
       dark: 'html[data-theme="dark"]',
       path: window.location.pathname,
       comment: false,
-    }, {"locale":{"placeholder":"填写昵称即可提交，填写邮箱地址可收到评论提醒。如果想自定义头像等请注册登录。"}}))
+    }, {"locale":{"placeholder":"填写昵称即可提交，填写邮箱地址可收到评论提醒。如果想自定义头像等请注册登录。"},"avatar":["/img/avatar.png"]}))
   }
 
   const walineCSSLoad = document.getElementById('waline-css')

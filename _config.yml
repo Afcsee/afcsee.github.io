@@ -97,7 +97,7 @@ ignore:
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-theme: landscape
+theme: butterfly
 
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
@@ -105,3 +105,15 @@ deploy:
   type: git
   repo: https://github.com/Afcsee/afcsee.github.io
   branch: main
+
+# hexo-generator-search
+search:
+  path: search.xml
+  field: post
+  content: true
+  template:
+
+# hexo-tag-aplayer
+aplayer:
+  meting: true
+  asset_inject: false

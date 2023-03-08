@@ -464,11 +464,11 @@ footer:
 
 # Baidu Analytics
 # https://tongji.baidu.com/web/welcome/login
-baidu_analytics:
+baidu_analytics: aa327823a7fccf32f2998464799afaff
 
 # Google Analytics
 # https://analytics.google.com/analytics/web/
-google_analytics:
+google_analytics: UA-259756099-1
 
 # Cloudflare Analytics
 # https://www.cloudflare.com/zh-tw/web-analytics/

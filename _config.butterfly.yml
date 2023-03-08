@@ -330,11 +330,15 @@ valine:
 # waline - A simple comment system with backend support fork from Valine
 # https://waline.js.org/
 waline:
-  serverURL: https://sulemio-waline.vercel.app/ # Waline server address url
+  serverURL: https://waline.sulemio.love/ # Waline server address url
   bg: # waline background
   pageview: false
   option:
-    # avatar: /img/avatar.png
+    locale: {
+      placeholder: "填写昵称即可提交，填写邮箱地址可收到评论提醒。如果想自定义头像等请注册登录。"
+    }
+    # avatar: ['/img/avatar.png']
+    # emoji: ["/my-emoji"]
 
 # utterances
 # https://utteranc.es/

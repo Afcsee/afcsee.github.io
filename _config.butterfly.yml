@@ -335,7 +335,13 @@ waline:
   pageview: false
   option:
     locale: {
-      placeholder: "填写昵称即可提交，填写邮箱地址可收到评论提醒，如果想自定义头像、获取等级标签等请注册登录。\n本评论区支持Markdown语法和HTML标签。"
+      placeholder: "填写昵称即可提交，填写邮箱地址可收到评论提醒，如果想自定义头像、获取自定义标签等请注册登录。\n本评论区支持Markdown语法和HTML标签。",
+      level0: "Permet Score 1",
+      level1: "Permet Score 2",
+      level2: "Permet Score 3",
+      level3: "Permet Score 4",
+      level4: "Permet Score 5",
+      level6: "Permet Score 6"
     }
     search: false
     # avatar: ['/img/avatar.png']

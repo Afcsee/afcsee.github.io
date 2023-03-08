@@ -4,23 +4,27 @@
   
     
     <entry>
-      <title>Hello World</title>
-      <link href="/posts/4a17b156"/>
-      <url>/posts/4a17b156</url>
+      <title>HG 1/144 ガンダムエアリアル</title>
+      <link href="/posts/99a2b62"/>
+      <url>/posts/99a2b62</url>
       
-        <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>]]></content>
+        <content type="html"><![CDATA[<div class="gallery">    <div class="fj-gallery  data" data-rowHeight="220" data-limit="11">    <span class="gallery-data">[{"url":"https://s2.loli.net/2023/03/08/8HpqhnZU5GPCkXa.jpg","alt":"hg_aerial_01.jpg"},{"url":"https://s2.loli.net/2023/03/08/n41Qzi3PjFwNfOK.jpg","alt":"hg_aerial_02.jpg"},{"url":"https://s2.loli.net/2023/03/08/PSvCVnI2htAJwlB.jpg","alt":"hg_aerial_03.jpg"},{"url":"https://s2.loli.net/2023/03/08/MZmB1qixeLQJENk.jpg","alt":"hg_aerial_04.jpg"},{"url":"https://s2.loli.net/2023/03/08/iXymDLfB27CRG9x.jpg","alt":"hg_aerial_05.jpg"},{"url":"https://s2.loli.net/2023/03/08/HfaGozjl5rMPx7T.jpg","alt":"hg_aerial_06.jpg"},{"url":"https://s2.loli.net/2023/03/08/wBoAvtF5p3US9Xg.jpg","alt":"hg_aerial_07.jpg"},{"url":"https://s2.loli.net/2023/03/08/6uNnj2KpU7IWzY8.jpg","alt":"hg_aerial_08.jpg"},{"url":"https://s2.loli.net/2023/03/08/yknIVoz8E7x5Yti.jpg","alt":"hg_aerial_09.jpg"},{"url":"https://s2.loli.net/2023/03/08/DpMqFb79aV8NuCe.jpg","alt":"hg_aerial_10.jpg"},{"url":"https://s2.loli.net/2023/03/08/IdZwaV3XzUN5Jt2.jpg","alt":"hg_aerial_11.jpg"}]</span>    </div>    <button class="gallery-load-more"><span>加载更多</span><i class="fa-solid fa-arrow-down"></i></button>    </div><table><tr><td><b>商品名称</td><td>HG ガンダムエアリアル / HG 风灵高达</td></tr><tr><td><b>商品类型</td><td>拼装模型</td></tr><tr><td><b>售卖方式</td><td>通贩</td></tr><tr><td><b>定价</td><td>1300円</td></tr><tr><td><b>购买渠道</td><td>线下、淘宝、PDD均可</td></tr><tr><td><b>发售时间</td><td>2022年10月1日</td></tr></table>]]></content>
       
       
       <categories>
           
-          <category> 碟片发售信息 </category>
+          <category> 模型相关信息 </category>
           
       </categories>
       
       
         <tags>
             
-            <tag> BD/DVD </tag>
+            <tag> HG </tag>
+            
+            <tag> 拼装模型 </tag>
+            
+            <tag> 风灵高达 </tag>
             
             <tag> 已发售 </tag>
             

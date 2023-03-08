@@ -14,7 +14,7 @@ menu:
   关于: /about/ || fas fa-heart
 
 nav:
-  logo: /img/logo_without_gundarm_300_2.png # image
+  logo: /img/logo_without_gundarm.png # image
   display_title: true
   fixed: true # fixed navigation bar
 
@@ -90,7 +90,7 @@ katex:
 # --------------------------------------
 
 # Favicon（網站圖標）
-favicon: /img/logo_without_gundarm_300.png
+favicon: /img/logo_without_gundarm_300.ico
 
 # Avatar (頭像)
 avatar:

@@ -1,0 +1,12 @@
+# Bandai Namco
+- class_name: 官方
+  class_desc: 今天万代动了吗
+  link_list:
+    - name: 公式サイト
+      link: https://g-witch.net/
+      avatar: /img/g_witch_favicon.svg
+      descr: 唐突更新了简介的官网
+    - name: '@G_Witch_M'
+      link: https://twitter.com/G_Witch_M
+      avatar: /img/G_Witch_M_avatar.jpg
+      descr: 可持续性摆烂中的官推

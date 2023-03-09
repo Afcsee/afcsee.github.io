@@ -4,9 +4,22 @@
   link_list:
     - name: 公式サイト
       link: https://g-witch.net/
-      avatar: /img/g_witch_favicon.svg
+      avatar: /img/links_logo/g_witch_favicon.svg
       descr: 唐突更新了简介的官网
     - name: '@G_Witch_M'
       link: https://twitter.com/G_Witch_M
-      avatar: /img/G_Witch_M_avatar.webp
+      avatar: /img/links_logo/G_Witch_M_avatar.webp
       descr: 可持续性摆烂中的官推
+
+# 讨论区
+- class_name: 讨论区
+  class_desc: 情报与雪花齐飞，香槟共番茄一色。
+  link_list:
+    - name: S1红白病栋
+      link: https://bbs.saraba1st.com/2b/thread-2119905-1-1.html
+      avatar: /img/links_logo/s1_avatar.png
+      descr: 绝赞清算中！
+    - name: 300水魔楼
+      link: https://bbs.yamibo.com/thread-508707-1-1.html
+      avatar: /img/links_logo/default_logo.png
+      descr: 比S1还是和平一些的。

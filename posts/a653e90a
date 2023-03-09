@@ -14,17 +14,13 @@
 <meta property="article:tag" content="斯莱塔·墨丘利">
 <meta property="article:tag" content="已发售">
 <meta name="twitter:card" content="summary">
-<meta name="twitter:image" content="https://s2.loli.net/2023/03/09/5rvxqXy18G3DaOM.webp"><link rel="shortcut icon" href="/img/logo_without_gundarm_300.ico"><link rel="canonical" href="http://sulemio.love/posts/a653e90a"><link rel="preconnect" href="//cdn.jsdelivr.net"/><link rel="preconnect" href="//www.google-analytics.com" crossorigin=""/><link rel="preconnect" href="//hm.baidu.com"/><link rel="preconnect" href="//busuanzi.ibruce.info"/><link rel="stylesheet" href="/css/index.css"><link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free/css/all.min.css" media="print" onload="this.media='all'"><link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/node-snackbar/dist/snackbar.min.css" media="print" onload="this.media='all'"><link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fancyapps/ui/dist/fancybox.min.css" media="print" onload="this.media='all'"><script>var _hmt = _hmt || [];
+<meta name="twitter:image" content="https://s2.loli.net/2023/03/09/5rvxqXy18G3DaOM.webp"><link rel="shortcut icon" href="/img/logo_without_gundarm_300.ico"><link rel="canonical" href="http://sulemio.love/posts/a653e90a"><link rel="preconnect" href="//cdn.jsdelivr.net"/><link rel="preconnect" href="//hm.baidu.com"/><link rel="preconnect" href="//busuanzi.ibruce.info"/><link rel="stylesheet" href="/css/index.css"><link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free/css/all.min.css" media="print" onload="this.media='all'"><link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/node-snackbar/dist/snackbar.min.css" media="print" onload="this.media='all'"><link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fancyapps/ui/dist/fancybox.min.css" media="print" onload="this.media='all'"><script>var _hmt = _hmt || [];
 (function() {
   var hm = document.createElement("script");
   hm.src = "https://hm.baidu.com/hm.js?aa327823a7fccf32f2998464799afaff";
   var s = document.getElementsByTagName("script")[0]; 
   s.parentNode.insertBefore(hm, s);
 })();
-</script><script async="async" src="https://www.googletagmanager.com/gtag/js?id=UA-259756099-1"></script><script>window.dataLayer = window.dataLayer || [];
-function gtag(){dataLayer.push(arguments);}
-gtag('js', new Date());
-gtag('config', 'UA-259756099-1');
 </script><script>const GLOBAL_CONFIG = { 
   root: '/',
   algolia: undefined,
@@ -236,13 +232,13 @@ if ('Waline' === 'Waline' || !false) {
   function loadOtherComment () {
     loadWaline()
   }
-}</script></div><link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/aplayer/dist/APlayer.min.css" media="print" onload="this.media='all'"><script src="https://cdn.jsdelivr.net/npm/aplayer/dist/APlayer.min.js"></script><script src="https://cdn.jsdelivr.net/npm/butterfly-extsrc/metingjs/dist/Meting.min.js"></script><script src="https://cdn.jsdelivr.net/npm/pjax/pjax.min.js"></script><script>let pjaxSelectors = ["head > title","#config-diff","#body-wrap","#rightside-config-hide","#rightside-config-show",".js-pjax"]
+}</script></div><script src="https://cdn.jsdelivr.net/npm/pjax/pjax.min.js"></script><script>let pjaxSelectors = ["head > title","#config-diff","#body-wrap","#rightside-config-hide","#rightside-config-show",".js-pjax"]
 
 var pjax = new Pjax({
   elements: 'a:not([target="_blank"])',
   selectors: pjaxSelectors,
   cacheBust: false,
-  analytics: true,
+  analytics: false,
   scrollRestoration: false
 })
 
@@ -288,7 +284,7 @@ document.addEventListener('pjax:complete', function () {
   typeof panguInit === 'function' && panguInit()
 
   // google analytics
-  typeof gtag === 'function' && gtag('config', 'UA-259756099-1', {'page_path': window.location.pathname});
+  typeof gtag === 'function' && gtag('config', '', {'page_path': window.location.pathname});
 
   // baidu analytics
   typeof _hmt === 'object' && _hmt.push(['_trackPageview',window.location.pathname]);

@@ -115,7 +115,7 @@ search:
 
 # hexo-tag-aplayer
 aplayer:
-  meting: true
+  meting: false
   asset_inject: false
 
 # abbrlink

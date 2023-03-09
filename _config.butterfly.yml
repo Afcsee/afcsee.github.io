@@ -101,7 +101,7 @@ avatar:
 disable_top_img: false
 
 # The banner image of home page
-index_img: /img/s2mv_pc_tiny.jpg
+index_img: /img/s2mv_pc_tiny.webp
 
 # If the banner of page not setting, it will show the top_img
 default_top_img: false

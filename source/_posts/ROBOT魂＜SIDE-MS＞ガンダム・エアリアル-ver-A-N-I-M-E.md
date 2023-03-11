@@ -1,13 +1,13 @@
 ---
-title: ROBOT魂＜SIDE MS＞ガンダム・エアリアル ver. A.N.I.M.E.
+title: Robot魂 风灵高达 ver. A.N.I.M.E
 top_img: false
-cover: 'https://s2.loli.net/2023/03/09/hDE84CSxid67IjO.webp'
+cover: https://s2.loli.net/2023/03/09/hDE84CSxid67IjO.webp
 tags:
   - Robot魂
   - 成品模型
   - 风灵高达
   - 已发售
-categories: 模型相关信息
+categories: [模型,机体模型,风灵高达]
 abbrlink: 4a4a7d27
 date: 2023-03-09 20:13:04
 ---
@@ -25,11 +25,10 @@ date: 2023-03-09 20:13:04
 ![R魂_ANIME_Aerial_10.webp](https://s2.loli.net/2023/03/09/hDE84CSxid67IjO.webp)
 {% endgallery %}
 
-<table>
-    <tr><td><b>商品名称</td><td>ROBOT魂＜SIDE MS＞ガンダム・エアリアル ver. A.N.I.M.E. / Robot魂 风灵高达 ver. A.N.I.M.E</td><tr>
-    <tr><td><b>商品类型</td><td>成品模型</td></tr>
-    <tr><td><b>售卖方式</td><td>通贩</td></tr>
-    <tr><td><b>定价</td><td>7000円</td></tr>
-    <tr><td><b>购买渠道</td><td>线下、淘宝、PDD均可</td></tr>
-    <tr><td><b>发售时间</td><td>2022年11月18日</td></tr>
-</table>
+| **商品名称** | ROBOT魂＜SIDE MS＞ガンダム・エアリアル ver. A.N.I.M.E.<br>Robot魂 风灵高达 ver. A.N.I.M.E |
+|:---:|:---|
+| **商品类型** | 成品模型 |
+| **售卖方式** | 通贩 |
+| **定价** | 7000円 |
+| **购买渠道** | 线下、淘宝、PDD均可 |
+| **发售时间** | 2022年11月18日 |

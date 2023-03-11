@@ -1,5 +1,5 @@
 ---
-title: FULL MECHANICS 1/100 ガンダムエアリアル
+title: FM 风灵高达
 top_img: false
 cover: 'https://s2.loli.net/2023/03/10/3K8xb75fpgiaJXn.webp'
 tags:
@@ -7,7 +7,7 @@ tags:
   - 拼装模型
   - 风灵高达
   - 未发售
-categories: 模型相关信息
+categories: [模型,机体模型,风灵高达]
 abbrlink: ee9cdc02
 date: 2023-03-10 20:15:34
 ---
@@ -27,11 +27,10 @@ date: 2023-03-10 20:15:34
 ![FM_Aerial_12.webp](https://s2.loli.net/2023/03/10/3K8xb75fpgiaJXn.webp)
 {% endgallery %}
 
-<table>
-    <tr><td><b>商品名称</td><td>FULL MECHANICS 1/100 ガンダムエアリアル / FM 风灵高达</td></tr>
-    <tr><td><b>商品类型</td><td>拼装模型</td></tr>
-    <tr><td><b>售卖方式</td><td>通贩</td></tr>
-    <tr><td><b>定价</td><td>3800円</td></tr>
-    <tr><td><b>购买渠道</td><td>预定/等吃现，详询身边胶佬</td></tr>
-    <tr><td><b>发售时间</td><td>2023年4月22日</td></tr>
-</table>
+| **商品名称** | FULL MECHANICS 1/100 ガンダムエアリアル<br>FM 风灵高达 |
+|:---:|:---|
+| **商品类型** | 拼装模型 |
+| **售卖方式** | 通贩 |
+| **定价** | 3800円 |
+| **购买渠道** | 预定/等吃现，详询身边胶佬 |
+| **发售时间** | 2023年4月22日 |

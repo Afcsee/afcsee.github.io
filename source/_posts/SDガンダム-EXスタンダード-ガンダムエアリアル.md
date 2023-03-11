@@ -1,5 +1,5 @@
 ---
-title: SDガンダム EXスタンダード ガンダムエアリアル
+title: SDEX 风灵高达
 top_img: false
 cover: https://s2.loli.net/2023/03/09/i4lNfhnwT6Bxpsq.webp
 tags:
@@ -7,7 +7,7 @@ tags:
   - 拼装模型
   - 风灵高达
   - 已发售
-categories: 模型相关信息
+categories: [模型,机体模型,风灵高达]
 abbrlink: 598aa614
 date: 2023-03-08 22:10:08
 ---
@@ -22,11 +22,10 @@ date: 2023-03-08 22:10:08
 ![SDEX_Aerial_07.webp](https://s2.loli.net/2023/03/09/i4lNfhnwT6Bxpsq.webp)
 {% endgallery %}
 
-<table>
-    <tr><td><b>商品名称</td><td>SDガンダム EXスタンダード ガンダムエアリアル / SDEX 风灵高达</td> </tr>
-    <tr><td><b>商品类型</td><td>拼装模型</td> </tr>
-    <tr><td><b>售卖方式</td><td>通贩</td> </tr>
-    <tr><td><b>定价</td><td>600円</td> </tr>
-    <tr><td><b>购买渠道</td><td>线下、淘宝、PDD均可</td></tr>
-    <tr><td><b>发售时间</td><td>2022年10月15日</td></tr>
-</table>
+| **商品名称** | SDガンダム EXスタンダード ガンダムエアリアル<br>SDEX 风灵高达 |
+|:---:|:---|
+| **商品类型** | 拼装模型 |
+| **售卖方式** | 通贩 |
+| **定价** | 600円 |
+| **购买渠道** | 线下、淘宝、PDD均可 |
+| **发售时间** | 2022年10月15日 |

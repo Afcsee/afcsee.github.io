@@ -9,7 +9,7 @@ date: 2023-03-08 01:39:43
 ## 部员
 ![](/img/aerial_avatar.png "エアリアル")
 <center><b>エアリアル</b></center>
-<center>为斯莱塔的婚礼疯狂打工攒钱中</center>
+<center>飛べる！踊れる！エアリアル！</center>
 
 ## 联系方式
 S1、DC群、300都能找到我，S1、300一般当天能看到消息，DC群有点随缘。

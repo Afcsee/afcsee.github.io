@@ -1,6 +1,6 @@
 # Bandai Namco
 - class_name: 官方
-  class_desc: 万代，暂时的哥！
+  class_desc: 万代，暂时的神。
   link_list:
     - name: 公式サイト
       link: https://g-witch.net/
@@ -8,8 +8,12 @@
       descr: 唐突更新了简介的官网
     - name: '@G_Witch_M'
       link: https://twitter.com/G_Witch_M
-      avatar: /img/links_logo/G_Witch_M_avatar.webp
+      avatar: /img/links_logo/G_Witch_M_avatar.jpg
       descr: 可持续性摆烂中的官推
+    - name: 官方网站
+      link: https://gundaminfo.cn/about-gundam/series-pages/witch/
+      avatar: /img/links_logo/g_witch_favicon.svg
+      descr: 官网 in 拆尼斯
 
 # 讨论区
 - class_name: 讨论区
@@ -18,8 +22,17 @@
     - name: S1红白病栋
       link: https://bbs.saraba1st.com/2b/thread-2119905-1-1.html
       avatar: /img/links_logo/s1_avatar.png
-      descr: 绝赞清算中！
+      descr: 全员校服堕，这楼还能不能要了。
     - name: 300水魔楼
       link: https://bbs.yamibo.com/thread-508707-1-1.html
       avatar: /img/links_logo/default_logo.png
       descr: 比S1还是和平一些的。
+
+# 其他网友的地址
+- class_name: 相关部门
+  class_desc: 大佬们的工作成果
+  link_list:
+    - name: 催更部
+      link: https://sulemio.top
+      avatar: /img/links_logo/Timer_logo.png
+      descr: 水星的魔女什么时候更新

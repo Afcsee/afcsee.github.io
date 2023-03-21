@@ -345,7 +345,6 @@ waline:
       level6: "Permet Score 6"
     }
     search: false
-    # avatar: ['/img/avatar.png']
     emoji: [
       "https://unpkg.com/@waline/emojis@1.1.0/alus",
       "https://unpkg.com/@waline/emojis@1.1.0/tw-emoji"
@@ -548,7 +547,7 @@ tag_ui: # 留空或 index
 background:
 
 # Footer Background
-footer_bg: true
+footer_bg: /img/s2mv_pc_footer.webp
 
 # the position of bottom right button/default unit: px (右下角按鈕距離底部的距離/默認單位為px)
 rightside-bottom:
@@ -715,7 +714,7 @@ aside:
     sort_order: # Don't modify the setting unless you know how it works
   card_tags:
     enable: true
-    limit: 40 # if set 0 will show all
+    limit: 15 # if set 0 will show all
     color: true
     orderby: random # Order of tags, random/name/length
     order: 1 # Sort of order. 1, asc for ascending; -1, desc for descending

@@ -2,6 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://sulemio.love/gallery/journey/index.html</loc>
+    
+    <lastmod>2023-03-22</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>http://sulemio.love/posts/614cac0b/</loc>
     
     <lastmod>2023-03-22</lastmod>
@@ -14,15 +23,6 @@
     <loc>http://sulemio.love/posts/b1317230/</loc>
     
     <lastmod>2023-03-22</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>http://sulemio.love/gallery/journey/index.html</loc>
-    
-    <lastmod>2023-03-21</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
